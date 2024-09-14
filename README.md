@@ -1,5 +1,5 @@
-<H3>Hemasonica.P</H3>
-<H3>212222230048</H3>
+<H3>Name : Hemasonica.P</H3>
+<H3>RGISTEDR NO: 212222230048</H3>
 <H3>EX. NO.3</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
